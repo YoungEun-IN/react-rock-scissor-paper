@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-rock-scissor-paper/static/css/main.960544ee.chunk.css",
+    "main.js": "/react-rock-scissor-paper/static/js/main.cdfd63b9.chunk.js",
+    "main.js.map": "/react-rock-scissor-paper/static/js/main.cdfd63b9.chunk.js.map",
+    "runtime-main.js": "/react-rock-scissor-paper/static/js/runtime-main.1959ba77.js",
+    "runtime-main.js.map": "/react-rock-scissor-paper/static/js/runtime-main.1959ba77.js.map",
+    "static/js/2.72255e9d.chunk.js": "/react-rock-scissor-paper/static/js/2.72255e9d.chunk.js",
+    "static/js/2.72255e9d.chunk.js.map": "/react-rock-scissor-paper/static/js/2.72255e9d.chunk.js.map",
+    "index.html": "/react-rock-scissor-paper/index.html",
+    "static/css/main.960544ee.chunk.css.map": "/react-rock-scissor-paper/static/css/main.960544ee.chunk.css.map",
+    "static/js/2.72255e9d.chunk.js.LICENSE.txt": "/react-rock-scissor-paper/static/js/2.72255e9d.chunk.js.LICENSE.txt",
+    "static/media/paper.19c16065.svg": "/react-rock-scissor-paper/static/media/paper.19c16065.svg",
+    "static/media/HandButton.css": "/react-rock-scissor-paper/static/media/yellow.6c220a3d.svg",
+    "static/media/rock.24f8e255.svg": "/react-rock-scissor-paper/static/media/rock.24f8e255.svg",
+    "static/media/scissor.6096875e.svg": "/react-rock-scissor-paper/static/media/scissor.6096875e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1959ba77.js",
+    "static/js/2.72255e9d.chunk.js",
+    "static/css/main.960544ee.chunk.css",
+    "static/js/main.cdfd63b9.chunk.js"
+  ]
+}
